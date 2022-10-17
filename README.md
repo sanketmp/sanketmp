@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanketmp aka Sanket
+- 👋 Hi, I’m @sanketmp aka Sanket.
 - 👀 I’m DevOps,Full Stack, Web3 Enthusiast.
 - 🌱 I’m currently polishing my Frontend Knowledge.
 - 💞️ I’m looking forward to collaborate on Open-Source.
