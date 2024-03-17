@@ -10,7 +10,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,materialui,vite,firebase,git,github,netlify,redux,styledcomponents,vercel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,materialui,vite,firebase,git,github,netlify,redux,styledcomponents,vercel,linux,docker)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats:
