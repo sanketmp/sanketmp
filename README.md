@@ -14,11 +14,10 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanketmp&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanketmp&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmp&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)<br/>
 
+[![sanketmp's GitHub | Stats](https://stats.quine.sh/sanketmp/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sanketmp)
+[![sanketmp's GitHub | Dependencies](https://stats.quine.sh/sanketmp/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sanketmp)
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 
