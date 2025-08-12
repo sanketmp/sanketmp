@@ -3,8 +3,8 @@
 # 👨‍💻 About Me:
 👯 I’m looking to collaborate on various open-source projects<br>
 🤝 I’m looking for help with pretty much everything😂<br>
-🌱 I’m currently learning MERN<br>&emsp;&ensp;and that's all I guess.<br>
-☝ One more thing, I'm open to working as a Frontend/Fullstack Developer.🙃
+🌱 I’m currently learning Python, Flask, K8s, etc all cloud/DevOps/SRE stuff<br>&emsp;&ensp;and that's all I guess.<br>
+☝ One more thing, I'm open to working as a Backend/Fullstack Developer.🙃
 
 
 
